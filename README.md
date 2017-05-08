@@ -8,4 +8,4 @@ In this project, you will learn how to control a DC motor using the ESP-8266.
 
 ## Part 3 - Unidirectional control using a darlington transistor array ##
 
-## Part 4 - Bidirectional control using a motor control IC ##
+## Part 4 - Bidirectional control using a half-H motor driver ##
